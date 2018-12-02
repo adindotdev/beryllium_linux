@@ -118,3 +118,6 @@ all.config
 
 # fetched Android config fragments
 kernel/configs/android-*.cfg
+
+# Adin's build script(s)
+build.sh
